@@ -1,0 +1,4 @@
+server_name: "matrixdh.duckdns.org"
+pid_file: /data/homeserver.pid
+public_baseurl: "https://matrixdh.duckdns.org/"
+
